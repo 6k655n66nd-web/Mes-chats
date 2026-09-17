@@ -1,3 +1,3 @@
 #Pupuce
 </p>Voici Pupuce, la maman
-![img](pupuce.JPG)
+![img](img/pupuce.JPG)
