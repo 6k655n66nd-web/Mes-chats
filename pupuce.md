@@ -1,5 +1,5 @@
 # Pupuce
-</p>Voici Pupuce, la maman
+## Voici Pupuce, la maman
 ![img](img/pupuce.JPG)
 
 [Retour](index)
