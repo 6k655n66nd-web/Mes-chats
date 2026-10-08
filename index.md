@@ -1,7 +1,8 @@
 # Mes chats
 ## Présentation de mes chats
 
-![img](img/IMG_8813.JPG)
+<img src="./img/IMG_8813.JPG" width="500">
+
 1.[Pupuce](pupuce)   
 2.[Mirou](Mirou)  
 3.[Choupette](choupette)  
